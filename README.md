@@ -1,0 +1,9 @@
+Create a .env file
+
+eg
+
+```
+PORT=5000
+MONGO_URI=mongodb://127.0.0.1:27017/mern_practical
+JWT_SECRET=mysecretkey
+```
